@@ -89,7 +89,7 @@ h1{
 
 .seasonalattire h2{
 	color: #FFFFFF;
-	font-family:'Josefin Slab', serif;
+	font-family: 'Alice', serif;
 	font-weight:bold;
 
 }
@@ -105,7 +105,7 @@ h1{
 }
 
 .dressremix h2{
-	font-family:'Josefin Slab', serif;
+	font-family: 'Alice', serif;
 	color: #FFFFFF;
 	font-weight:bold;
 }
@@ -122,7 +122,7 @@ h1{
 }
 
 .streetstyle h2{
-	font-family:'Josefin Slab', serif;
+	font-family: 'Alice', serif;
 	color: #FFFFFF;
 	font-weight:bold;
 }
@@ -140,7 +140,7 @@ h1{
 }
 
 .greyofshadesstyle h2{
-	font-family:'Josefin Slab', serif;
+	font-family: 'Alice', serif;
 	color: #FFFFFF;
 	font-weight:bold;
 }
@@ -158,7 +158,7 @@ h1{
 }
 
 .elegantstyle h2{
-	font-family:'Josefin Slab', serif;
+	font-family: 'Alice', serif;
 	color: #FFFFFF;
 	font-weight:bold;
 }
@@ -176,7 +176,7 @@ h1{
 }
 
 .dressdownstyle h2{
-	font-family:'Josefin Slab', serif;
+	font-family: 'Alice', serif;
 	color: #FFFFFF;
 	font-weight:bold;
 }
@@ -194,7 +194,7 @@ h1{
 }
 
 .sundaybest h2{
-	font-family:'Josefin Slab', serif;
+	font-family: 'Alice', serif;
 	color: #FFFFFF;
 	font-weight:bold;
 }
@@ -209,6 +209,24 @@ h1{
 		 font-stretch: ultra-condensed;
 		 text-align: center;
 
+}
+
+.personality h2{
+	font-family: 'Alice', serif;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+
+
+.personality p{
+		 color: #FFFFFF;
+		 border-width:3px;  
+	     border-style:dashed;
+		 border-color:#FFD700 #000080;
+		 font-family: 'Josefin Sans', sans-serif;
+		 font-size: 1.130em;
+		 font-stretch: ultra-condensed;
+		 text-align: center;
 }
 
 .side-nav h2{
