@@ -1,0 +1,221 @@
+body{
+background-color:#A9A9A9;
+font-family: 'Judson', serif; 
+}
+
+.top-bar{
+	background-color:#000080;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button),{
+	background-color: #000080;
+}
+
+.top-bar-section li:not(.has-form) a:not(.button):hover
+{
+	background-color: #FFD700;
+}
+
+
+.top-bar h1{
+	font-family: 'Cinzel Decorative', cursive;
+
+}
+
+.top-bar-section ul li>a {
+	font-family: 'Judson', serif;
+	font-size: 0.9em;
+}
+
+.hero{
+	margin-bottom:2em;
+}
+
+.blog-list .panel{
+	font-family: 'Judson', serif;
+	background-color: #FFD700;
+	text-align: center;
+	color:#000080;
+	font-size:1.125em;
+}
+
+.blog-list .imgbox {
+	height: 200px;
+	overflow: hidden;
+}
+
+
+ .blog-list .panel:hover{
+    background-color:#D3D3D3;
+}
+
+.welcome.panel{
+	background-color:#FFD700; 
+}
+
+hr{
+	border: dotted #000080;
+	border-width: 0.5px;
+}
+
+h4{
+	font-family: 'Philosopher', sans-serif;
+
+}
+.subheader{
+	font-family: 'Philosopher', sans-serif;
+
+}
+
+a{
+	color: #000080;
+}
+
+.panel.callout {
+	font-family: 'Judson', serif;
+	background-color: #FFD700;
+}
+
+footer p{
+	color:#000080;
+	font-family: 'Judson', serif; 
+}
+
+h1{
+	color: #FFFFFF;
+	font-family: 'Josefin Sans', sans-serif;
+	text-transform: uppercase;
+}
+
+.seasonalattire h2{
+	color: #FFFFFF;
+	font-family:'Josefin Slab', serif;
+	font-weight:bold;
+
+}
+.seasonalattire p{
+	color: #FFFFFF;
+	 border-width:3px;  
+     border-style:dashed;
+	 border-color:#FFD700 #000080;
+	 font-family: 'Josefin Sans', sans-serif;
+	 font-size: 1.287em;
+	 text-align: center;
+
+}
+
+.dressremix h2{
+	font-family:'Josefin Slab', serif;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+
+.dressremix p{
+	 color: #FFFFFF;
+	 border-width:3px;  
+     border-style:dashed;
+	 border-color:#FFD700 #000080;
+	 font-family: 'Josefin Sans', sans-serif;
+	 font-size: 1.130em;
+	 font-stretch: ultra-condensed;
+	 text-align: center;
+}
+
+.streetstyle h2{
+	font-family:'Josefin Slab', serif;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+
+.streetstyle p{
+		 color: #FFFFFF;
+		 border-width:3px;  
+	     border-style:dashed;
+		 border-color:#FFD700 #000080;
+		 font-family: 'Josefin Sans', sans-serif;
+		 font-size: 1.130em;
+		 font-stretch: ultra-condensed;
+		 text-align: center;
+
+}
+
+.greyofshadesstyle h2{
+	font-family:'Josefin Slab', serif;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+
+.greyofshadesstyle p{
+		 color: #FFFFFF;
+		 border-width:3px;  
+	     border-style:dashed;
+		 border-color:#FFD700 #000080;
+		 font-family: 'Josefin Sans', sans-serif;
+		 font-size: 1.130em;
+		 font-stretch: ultra-condensed;
+		 text-align: center;
+
+}
+
+.elegantstyle h2{
+	font-family:'Josefin Slab', serif;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+
+.elegantstyle p{
+		 color: #FFFFFF;
+		 border-width:3px;  
+	     border-style:dashed;
+		 border-color:#FFD700 #000080;
+		 font-family: 'Josefin Sans', sans-serif;
+		 font-size: 1.130em;
+		 font-stretch: ultra-condensed;
+		 text-align: center;
+
+}
+
+.dressdownstyle h2{
+	font-family:'Josefin Slab', serif;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+
+.dressdownstyle p{
+		 color: #FFFFFF;
+		 border-width:3px;  
+	     border-style:dashed;
+		 border-color:#FFD700 #000080;
+		 font-family: 'Josefin Sans', sans-serif;
+		 font-size: 1.130em;
+		 font-stretch: ultra-condensed;
+		 text-align: center;
+
+}
+
+.sundaybest h2{
+	font-family:'Josefin Slab', serif;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+
+.sundaybest p{
+		 color: #FFFFFF;
+		 border-width:3px;  
+	     border-style:dashed;
+		 border-color:#FFD700 #000080;
+		 font-family: 'Josefin Sans', sans-serif;
+		 font-size: 1.130em;
+		 font-stretch: ultra-condensed;
+		 text-align: center;
+
+}
+
+.side-nav h2{
+	font-family: 'Philosopher', sans-serif;
+	color: #FFFFFF;
+}
+
+.side-nav li a:not(.button) {
+	color:#FFD700; 
+
