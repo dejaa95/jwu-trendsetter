@@ -218,4 +218,14 @@ h1{
 
 .side-nav li a:not(.button) {
 	color:#FFD700; 
+}
 
+.button{
+	background-color:#FFD700;
+	color: #000080;
+}
+
+#mc_embed_signup h2{
+	font-family: 'Josefin Sans', sans-serif;
+	color: #FFFFFF;
+}
